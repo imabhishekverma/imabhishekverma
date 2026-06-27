@@ -6,7 +6,7 @@
   <a href="mailto:abhishek.verma1268@gmail.com">
     <img src="https://img.shields.io/badge/Email-abhishek.verma1268%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/abhishek-verma-87880523a">
+  <a href="https://www.linkedin.com/in/imabhishekverma">
     <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://img.shields.io/badge/Location-Noida%2C%20India-2F80ED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
@@ -131,4 +131,4 @@ Created test plans, RTM, defect reports, and Cypress regression coverage for ent
 I am open to Software Developer, Junior Software Developer, QA Automation Engineer, and SDET opportunities where I can combine development skills with a strong product-quality mindset.
 
 - Email: [abhishek.verma1268@gmail.com](mailto:abhishek.verma1268@gmail.com)
-- LinkedIn: [abhishek-verma-87880523a](https://www.linkedin.com/in/abhishek-verma-87880523a)
+- LinkedIn: [imabhishekverma](https://www.linkedin.com/in/imabhishekverma)
