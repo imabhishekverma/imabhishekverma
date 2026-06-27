@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Abhishek Verma</h1>
 
-<h3 align="center">Software Developer Aspirant | QA Automation Engineer | JavaScript, Java, Kotlin, SQL</h3>
+<h3 align="center">Software Developer Aspirant | QA Automation Engineer | JavaScript, Java, React, Next.js, PostgreSQL, Azure</h3>
 
 <p align="center">
   <a href="mailto:abhishek.verma1268@gmail.com">
@@ -20,14 +20,14 @@ I am a QA Automation Engineer with 3.8+ years of experience across web, mobile, 
 
 My background gives me a strong engineering advantage: I understand how software breaks, how users interact with products, how APIs behave, and how to build reliable, maintainable workflows. I have worked closely with developers, product teams, and international clients while building automation frameworks, validating complex business flows, and improving release quality.
 
-I am currently focused on strengthening my software development skills through Java, JavaScript, Kotlin, REST APIs, SQL, clean code practices, and real-world project building.
+I am currently focused on strengthening my software development skills through Java, JavaScript, React, Next.js, REST APIs, PostgreSQL, Azure, clean code practices, and real-world project building.
 
 ---
 
 ## What I Bring
 
 - 3.8+ years of hands-on experience in software quality, automation, API validation, and Agile delivery
-- Strong programming foundation in Java, JavaScript, Kotlin, and SQL
+- Strong programming foundation in Java, JavaScript, React, Next.js, PostgreSQL, and SQL
 - Experience building automation frameworks with Selenium, Playwright, Cypress, Appium, Cucumber, TestNG, JUnit, and REST Assured
 - Practical understanding of product behavior, edge cases, user workflows, debugging, and production-quality releases
 - Comfortable collaborating with developers, product managers, clients, and cross-functional teams
@@ -41,8 +41,14 @@ I am currently focused on strengthening my software development skills through J
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### Frontend and Cloud
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ### Development and Testing
 
@@ -73,7 +79,7 @@ I am currently focused on strengthening my software development skills through J
 I am actively moving from QA Automation into Software Development, with a focus on:
 
 - Java and JavaScript application development
-- Backend fundamentals, REST APIs, and database-driven workflows
+- React, Next.js, backend fundamentals, REST APIs, and database-driven workflows
 - Clean, maintainable code with strong debugging habits
 - Building user-focused products backed by reliable test coverage
 - Applying automation and quality engineering experience to write better software from day one
